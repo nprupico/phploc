@@ -1,7 +1,7 @@
 {
-    "name": "cmgmyr/phploc",
+    "name": "nprupico/phploc",
     "description": "A tool for quickly measuring the size of a PHP project.",
-    "homepage": "https://github.com/cmgmyr/phploc",
+    "homepage": "https://github.com/nprupico/phploc",
     "license": "BSD-3-Clause",
     "authors": [
         {
@@ -11,7 +11,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/cmgmyr/phploc/issues"
+        "issues": "https://github.com/nprupico/phploc/issues"
     },
     "config": {
         "optimize-autoloader": true,
@@ -21,7 +21,7 @@
         "php": "^7.4 || ^8.0",
         "ext-dom": "*",
         "ext-json": "*",
-        "sebastian/cli-parser": "^1.0|^2.0",
+        "sebastian/cli-parser": "^1.0|^2.0|^3.0",
         "phpunit/php-file-iterator": "^3.0|^4.0"
     },
     "require-dev": {

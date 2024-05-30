@@ -5,7 +5,7 @@
 ## Installation
 
 ```bash
-$ composer global install cmgmyr/phploc
+$ composer global install nprupico/phploc
 ```
 ## Usage Examples
 
